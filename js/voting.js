@@ -1,7 +1,7 @@
 'use strict';
 
 
-let votingRounds = 25;
+let votingRounds = 5;
 let productIndexArray = [];
 
 let imgElements = document.querySelectorAll('img');
